@@ -11,5 +11,5 @@ Python 3.x
 cobrapy
 
 ## Results
-Wild Type ethanol flux: 0.35
-Engineered Mutant ethanol flux: 0.50 (theoretical maximum)
+Wild Type ethanol flux: 20
+Engineered Mutant ethanol flux: 28.3
